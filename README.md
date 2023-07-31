@@ -42,6 +42,3 @@ I'm a frontend developer based in Vancouver.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Expressjs" width="40" height="40"/> &nbsp;
 </p>
 
-
-#### Design
-
